@@ -110,3 +110,4 @@ Acknowledgements
 ----------------
 
 This project was originally inspired by `facebook-chat-api <https://github.com/Schmavery/facebook-chat-api>`__.
+### Placeholder to check codeql, remove this line
